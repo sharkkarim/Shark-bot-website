@@ -1,0 +1,218 @@
+@font-face {
+    font-family: "MagmaWave";
+    src : url("/imgs/Impact.ttf")
+}
+
+
+body {
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-family: MagmaWave;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 30px;
+    font-family: MagmaWave;
+    float: left;
+    position: relative;
+  right: -15px;
+  bottom: -15px;
+}
+
+
+button:hover {
+    background-color: white;
+    color: black;
+    transition-duration: 0.7s;
+}
+
+
+#img {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: -170px;
+    bottom: -161px;
+}
+
+h1 {
+    position: relative;
+    bottom: -105px;
+    font-size: 60px;
+     left: 280px; 
+    display: inline-block;
+}
+
+#user {
+    display: inline-block;
+    position: relative;
+    left: 0px;
+    bottom: -170px;
+    font-size: 50px;
+}
+
+#users {
+    display: inline-block;
+    position: relative;
+    left: 27px;
+    bottom: -170px;
+    font-size: 50px; 
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+a:hover {
+    background-color: white;
+    color: black;
+    transition-duration: 0.7s;
+}
+
+
+
+
+pre {
+    display: inline;
+    position: relative;
+    left: 260px;
+    bottom: -100px;
+    font-family: MagmaWave;
+    font-size: 20px;
+}
+
+
+#iab {
+    width: 300px;
+    height: -300px;
+    position: relative;
+    left: 1100px;
+    bottom: -100px;
+}
+
+h2 {
+    position: relative;
+    bottom: -105px;
+    font-size: 60px;
+    /* left: 210px; */
+}
+
+
+
+#about {
+    position: relative;
+    left: 35px;
+}
+
+
+
+#shark {
+    position: relative;
+    bottom: -520px;
+    /* left: -98px;  */
+    width: 200px;
+    height: 200px;
+
+}
+
+
+#ushark {
+    position: relative;
+    bottom: -159px;
+    font-size: 25px;
+    /* left: 617px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px; */
+    width: 300px;
+}
+
+#cmd {
+    position: relative;
+    left: 40px;
+}
+
+
+
+#dev{
+    font-weight: 900;
+    font-size: 80px;
+    position: relative;
+    left: 400px;
+    bottom: 20px;
+}
+
+
+#userss {
+    position: relative;
+    bottom: -180px;
+    left: -125px;
+    font-size: 40px;
+}
+
+
+#pepl {
+    position: relative;
+    left: -128px;
+    bottom: -182px;
+    font-size: 20px;
+}
+
+
+
+
+#owner {
+    font-size: 40px;
+    position: relative;
+    left: 30px;
+    bottom: -75px;
+}
+
+
+
+#name-owner {
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    left: 750px;
+    bottom: -75px;
+}
+
+
+
+
+
+#gnrl {
+    font-size: 40px;
+}
+
+
+#copy {
+
+  position: relative;
+  /* bottom: -1000px ;  */
+}
+
+
+#dev-copy {
+
+position: relative;
+bottom: -550px;
+
+}
+
+#dev1 {
+      position: relative;
+    bottom: -250px;
+}
+
+dev2 {
+      position: relative;
+    bottom: -270px;
+}
